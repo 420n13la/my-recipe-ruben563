@@ -1,0 +1,13 @@
+body{
+  background-color: moccasin
+}
+h1 {
+  text-align: center;
+  color: maroon;
+}
+ul.a {
+  list-style-type:disk
+}
+ul.b{
+  list-style-type:decimal
+}
