@@ -2,12 +2,22 @@ body{
   background-color: moccasin
 }
 h1 {
-  text-align: center;
-  color: maroon;
+  
+ color: maroon;
 }
 ul.a {
   list-style-type:disk
 }
 ul.b{
   list-style-type:decimal
+} 
+img{
+  width:35%;
+  float: right
+}
+a:link{
+  color:red
+}
+a:visited{
+  color:pink
 }
